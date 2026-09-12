@@ -1,0 +1,123 @@
+<FXCXM6_orarend>
+
+    <ora id="01" tipus="előadás">
+        <targy>Webes adatkezelő környezetek</targy>
+        <idopont>
+            <nap>09.12 szombat</nap>
+            <tol>12</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>online</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="02" tipus="előadás">
+        <targy>UNIX rendszergazda</targy>
+        <idopont>
+            <nap>09.19 szombat</nap>
+            <tol>8</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>A1/307</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="03" tipus="előadás">
+        <targy>Multimédia rendszerek</targy>
+        <idopont>
+            <nap>09.19 szombat</nap>
+            <tol>12</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>In/200</helyszin>
+        <oktato>Dr. Varga Attila Károly</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="04" tipus="előadás">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>09.26 szombat</nap>
+            <tol>8</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>online</helyszin>
+        <oktato>Kunné Dr. Tamás Judit</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="05" tipus="előadás">
+        <targy>Műszaki szaknyelv</targy>
+        <idopont>
+            <nap>10.09 péntek</nap>
+            <tol>14</tol>
+            <ig>18</ig>
+        </idopont>
+        <helyszin>A1/309</helyszin>
+        <oktato>N/A</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="06" tipus="előadás">
+        <targy>UNIX rendszergazda</targy>
+        <idopont>
+            <nap>10.10 szombat</nap>
+            <tol>8</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>A1/319</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="07" tipus="előadás">
+        <targy>Webes adatkezelő környezetek</targy>
+        <idopont>
+            <nap>10.16 péntek</nap>
+            <tol>12</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>online</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="08" tipus="előadás">
+        <targy>Webes adatkezelő környezetek</targy>
+        <idopont>
+            <nap>10.17 szombat</nap>
+            <tol>12</tol>
+            <ig>16</ig>
+        </idopont>
+        <helyszin>online</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="09" tipus="előadás">
+        <targy>Mesterséges intelligencia alapok</targy>
+        <idopont>
+            <nap>10.17 szombat</nap>
+            <tol>8</tol>
+            <ig>12</ig>
+        </idopont>
+        <helyszin>XXXIII</helyszin>
+        <oktato>Fazekas Levente</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+    <ora id="10" tipus="előadás">
+        <targy>Mobil programozási alapok</targy>
+        <idopont>
+            <nap>10.31 szombat</nap>
+            <tol>8</tol>
+            <ig>15</ig>
+        </idopont>
+        <helyszin>A1/307</helyszin>
+        <oktato>Agárdi Anita</oktato>
+        <szak>Mérnökinformatikus</szak>
+    </ora>
+
+</FXCXM6_orarend>
